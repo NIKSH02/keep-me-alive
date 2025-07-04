@@ -3,7 +3,7 @@ import requests
 import datetime
 
 def ping_backend():
-    url = "https://peermeshbackend.onrender.com/ping" #replace this url with your backend url & endpoint
+    url = "https://peermeshbackend.onrender.com/home" #replace this url with your backend url & endpoint
     
     try:
         print(f"{datetime.datetime.now()}: Pinging {url}")
