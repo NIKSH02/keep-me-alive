@@ -7,7 +7,8 @@ URLS = [
     #"https://peermeshbackend.onrender.com/home",              # Replace with actual project 1
     #"https://vendorverse-uzqz.onrender.com",    # Replace with actual project 2
     #"https://voltcraze3.onrender.com/",     # Replace with actual project 3
-    #"https://school-management-api-ur8s.onrender.com/"
+    #"https://school-management-api-ur8s.onrender.com/",
+    "https://contentstack-chat-agent.onrender.com/",
 ]
 
 def ping_backend(url):
